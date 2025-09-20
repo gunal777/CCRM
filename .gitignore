@@ -1,0 +1,5 @@
+/out
+/exports
+/data
+*.class
+*.log
