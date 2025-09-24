@@ -101,7 +101,3 @@ Setup and execution screenshots are provided in the [screenshots/](screenshots/)
 - Builder Pattern -> `src/edu/ccrm/domain/Course.java` (Builder nested class).
 - NIO.2 & Streams -> `src/edu/ccrm/io/ImportExportService.java` / `BackupService.java`.
 - Custom exceptions -> `src/edu/ccrm/service/exceptions`.
-
-## Acknowledgements
-
-Starter code generated to help accelerate development. Replace sample data & screenshots with your own before submission.
